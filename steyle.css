@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav{
+    background-color: rgb(255, 255, 255);
+    height: 42px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+nav a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin-left: 30px;
+    
+}
+#wnjbTy5f{
+
+    width: 35px;
+}
+
+
+
+#ret{
+    display: flex;
+    justify-content: center;
+
+}
+
+#ret a{
+    margin-right: 20px;
+    
+}
+#opo{
+margin-left: 150px;
+
+}
+#jjj{
+text-align: center;
+
+
+}
+#color{
+    text-align: center;
+    color: blue;
+}
+#ppo{
+text-align: center;
+margin-right: 1300px;
+}
+#ppp{
+margin-left: 1300px;
+text-align: center;
+margin-top: -680px;
+}
+#ttt{
+text-align: center;
+color: blue;
+margin-right: 1300px;
+}
+
+#qqq{ 
+    color: chocolate;
+}
+#wwwe{
+
+color: rgb(0, 0, 0);
+
+}
+#xcx{
+
+    font-size: 15px;
+      justify-content: center;
+   width: 1500px;
+   margin-left: 300px;
+}
+#eee{
+  width: 100px;  
+  margin-left: 500px;
+}
+#uuu{
+width: 100px;
+margin-left: 400px;
+margin-top: -500px ;
+}
+#klk{
+width: 100px;
+margin-left: 400px;
+margin-top: -450px;
+}
+#yuy{
+width: 100px;
+margin-left: 400px;
+margin-top:-450px ;
+}
